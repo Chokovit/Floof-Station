@@ -680,3 +680,15 @@
     sprite: Clothing/OuterClothing/WinterCoats/corpo_jacket_zeng_hu_pharma.rsi
   - type: GuideHelp
     guides: [ ZengHuPharmaceuticals ]
+
+
+- type: entity
+  parent: ClothingOuterWinterCoat
+  id: ClothingOuterDcCorporateJacket
+  name: Donk co. Corporate Jacket
+  description: A cozy jacket with the Donk co. logo printed on the back. Merchandise rewarded to stations with a safety factor of uhh... seven.
+  components:
+  - type: Sprite
+    sprite: Clothing/OuterClothing/WinterCoats/corpo_jacket_donk_co.rsi
+  - type: Clothing
+    sprite: Clothing/OuterClothing/WinterCoats/corpo_jacket_donk_co.rsi
